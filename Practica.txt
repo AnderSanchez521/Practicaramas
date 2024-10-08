@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 git commit -m "Se ha modificado el contenido"git commit -m "Se ha modificado el contenido"git commit -m "Se ha modificado el contenido"git commit -m "Se ha modificado el contenido"git commit -m "Se ha
 INSERT INTO CLIENTE (Nombre, Poblacion)
 VALUES
@@ -63,3 +64,6 @@ VALUES
 ('Justo', 'Vitoria'),
 ('Rosa', 'Malaga');
  modificado el contenido"
+=======
+git commit -m "Se ha modificado el contenido"git commit -m "Se ha modificado el contenido"git commit -m "Se ha modificado el contenido"git commit -m "Se ha modificado el contenido"git commit -m "Se ha modificado el contenido"fffffffffffffffffffffffffffgv>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>> segunda
