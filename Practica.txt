@@ -1,1 +1,65 @@
-git commit -m "Se ha modificado el contenido"git commit -m "Se ha modificado el contenido"git commit -m "Se ha modificado el contenido"git commit -m "Se ha modificado el contenido"git commit -m "Se ha modificado el contenido"
+git commit -m "Se ha modificado el contenido"git commit -m "Se ha modificado el contenido"git commit -m "Se ha modificado el contenido"git commit -m "Se ha modificado el contenido"git commit -m "Se ha
+INSERT INTO CLIENTE (Nombre, Poblacion)
+VALUES
+('Jorge', 'Barcelona'),
+('Fermin', 'Lugo'),
+('Gorka', 'Bilbao'),
+('Justo', 'Vitoria'),
+('Rosa', 'Malaga');
+
+INSERT INTO CLIENTE (Nombre, Poblacion)
+VALUES
+('Jorge', 'Barcelona'),
+('Fermin', 'Lugo'),
+('Gorka', 'Bilbao'),
+('Justo', 'Vitoria'),
+('Rosa', 'Malaga');
+
+INSERT INTO CLIENTE (Nombre, Poblacion)
+VALUES
+('Jorge', 'Barcelona'),
+('Fermin', 'Lugo'),
+('Gorka', 'Bilbao'),
+('Justo', 'Vitoria'),
+('Rosa', 'Malaga');
+
+INSERT INTO CLIENTE (Nombre, Poblacion)
+VALUES
+('Jorge', 'Barcelona'),
+('Fermin', 'Lugo'),
+('Gorka', 'Bilbao'),
+('Justo', 'Vitoria'),
+('Rosa', 'Malaga');
+
+INSERT INTO CLIENTE (Nombre, Poblacion)
+VALUES
+('Jorge', 'Barcelona'),
+('Fermin', 'Lugo'),
+('Gorka', 'Bilbao'),
+('Justo', 'Vitoria'),
+('Rosa', 'Malaga');
+
+INSERT INTO CLIENTE (Nombre, Poblacion)
+VALUES
+('Jorge', 'Barcelona'),
+('Fermin', 'Lugo'),
+('Gorka', 'Bilbao'),
+('Justo', 'Vitoria'),
+('Rosa', 'Malaga');
+
+INSERT INTO CLIENTE (Nombre, Poblacion)
+VALUES
+('Jorge', 'Barcelona'),
+('Fermin', 'Lugo'),
+('Gorka', 'Bilbao'),
+('Justo', 'Vitoria'),
+('Rosa', 'Malaga');
+
+INSERT INTO CLIENTE (Nombre, Poblacion)
+VALUES
+('Jorge', 'Barcelona'),
+('Fermin', 'Lugo'),
+('Gorka', 'Bilbao'),
+('Justo', 'Vitoria'),
+('Rosa', 'Malaga');
+ modificado el contenido"
